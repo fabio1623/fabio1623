@@ -28,7 +28,7 @@ My name is Fabio and I am a :
 - 💼 Insurance
 - ✈️ Aeronautic
 
-# Structures I worked with:
+# Structures I worked with
 
 - Startup
 - Mid-Size Companies
