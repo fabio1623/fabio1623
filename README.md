@@ -1,4 +1,6 @@
-Welcome to my GitHub repository! This repository contains the code of some of my Data Analysis projects in **Python** as well as some others in **C#/.NET**.
+Welcome to my GitHub repository! This repository contains some of my :
+- Data Analysis projects in Python 
+- Other projects in C# / .NET
 
 Feel free to explore and if you have any questions or feedback, please don't hesitate to contact me.
 
