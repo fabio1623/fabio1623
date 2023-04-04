@@ -1,3 +1,7 @@
+Welcome to my GitHub repository! This repository contains the code of some of my Data Analysis projects in **Python** as well as some others in **C#/.NET**.
+
+Feel free to explore and if you have any questions or feedback, please don't hesitate to contact me.
+
 # Spotify Song Recommender with Streamlit
 
 [[This project]](https://github.com/fabio1623/spotify-song-recommender) is a Spotify song recommender built with Streamlit. Given a user-selected song, the recommender suggests a song based on its cluster.
