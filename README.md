@@ -1,43 +1,29 @@
-# Hi there! 
+# Spotify Song Recommender with Streamlit
 
-My name is Fabio and I am a :
-- 👨‍💻 Senior Software Engineer (Python, C#, .NET, Micro-Services, Kafka)
-- 🧠 Data Scientist (Machine Learning, Natural Language Processing, ETL, Scraping, Classification, Clustering, Regression, Sentiment Analysis, Analysis, Tableau)
-- Citizen of the world
+[[This project]](https://github.com/fabio1623/spotify-song-recommender) is a Spotify song recommender built with Streamlit. Given a user-selected song, the recommender suggests a song based on its cluster.
 
-# Countries where I lived
+![application-screen1](https://user-images.githubusercontent.com/1780460/229926666-7a998648-b473-499b-8dc3-db0f72b2184b.png)
+![application-screen2](https://user-images.githubusercontent.com/1780460/229926685-3cb8415e-2955-483c-9aa9-dbf00404338a.png)
 
-- 🇨🇬 The Republic of Congo
-- 🇫🇷 France
-- 🇩🇪 Germany 
-- 🇵🇹 Portugal 
+# Fuel Consumption Comparison with Streamlit
 
-# Languages I speak
+[[This project]](https://github.com/fabio1623/technical_challenge_DA) compares the consumption of two fuels (E10 and SP98) based on various parameters, such as distance, speed, temperature, weather, and whether or not the AC is on. The project includes a Jupyter notebook for data cleaning and preparation, as well as a Streamlit application for displaying the results and comparing algorithms for regression and classification models.
 
-- 🇫🇷 French
-- 🇺🇸 English
-- 🇵🇹 Portuguese
-- 🇪🇸 Spanish
-- 🇩🇪 German
+You can see a running instance [here](https://gas-eda-fabio1623.streamlit.app).
 
-# Fields I worked in
+Please note that it is deployed on Streamlit Cloud so the application could go in sleep mode and need some time to reload.
 
-- ⚡️Energy
-- ♻️ Waste Management
-- 🏠 Real Estate
-- 💼 Insurance
-- ✈️ Aeronautic
+![application-screen](https://user-images.githubusercontent.com/1780460/229926738-8ed3014f-462f-4f7b-a4f8-7d15ea2952be.png)
 
-# Structures I worked with
+# Paper Shortage Analysis Repository
 
-- Startup
-- Mid-Size Companies
-- Groups
+[[This repository]](https://github.com/fabio1623/final-project) contains data, code and applications related to the analysis of paper shortage situation in the year 2022. The data includes wood and paper import, export and freight data from the UN as well as forest related and COVID-19 data from other sources. The analysis includes visualization, modeling and prediction of paper, wood prices based on the available data.
 
-# My hobbies?
+You can see a running instance [here](https://paper-shortage-eda-fabio1623.streamlit.app).
 
-- Travelling (currently around 40 countries visited)
-- Scuba-diving
+Please note that it is deployed on Streamlit Cloud so the application could go in sleep mode and need some time to reload.
+
+![application-screen](https://user-images.githubusercontent.com/1780460/229926809-b241fb5b-1d69-4220-8a64-05253bbdd0bf.png)
 
 <!--
 **fabio1623/fabio1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
